@@ -59,3 +59,4 @@ exclude:
   - netlify.toml
   - stackbit-build.sh
   - stackbit-pull.js
+domain: 'https://valerie-14c80.netlify.app'
